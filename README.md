@@ -1,6 +1,8 @@
 <a name="module_mali-call-types"></a>
 
 ### mali-call-types
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/malijs/mali-call-types.svg)](https://greenkeeper.io/)
 **Example**  
 ```js
 const CallType = require('mali-call-types')
