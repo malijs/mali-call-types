@@ -27,7 +27,7 @@
     "docs": "jsdoc2md \"*.js\" --heading-depth 3 > README.md"
   },
   "devDependencies": {
-    "jsdoc-to-markdown": "^3.0.3",
+    "jsdoc-to-markdown": "^4.0.1",
     "standard": "^10.0.0"
   }
 }
