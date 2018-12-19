@@ -4,7 +4,7 @@ const RESPONSE_STREAM = 'response_stream'
 const DUPLEX = 'duplex'
 
 /**
- * @module mali-call-types
+ * @module @malijs/call-types
  *
  * @example
  * const CallType = require('@malijs/call-types')
