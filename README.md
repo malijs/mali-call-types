@@ -3,7 +3,7 @@
 ### mali-call-types
 **Example**  
 ```js
-const CallType = require('mali-call-types')
+const CallType = require('@malijs/call-types')
 console.log(CallType.DUPLEX)
 ```
 **Example** *(Within Mali call handler)*  
@@ -24,22 +24,22 @@ if(ctx.type === CallType.UNARY) {
 #### mali-call-types.UNARY
 Unary call
 
-**Kind**: static property of <code>[mali-call-types](#module_mali-call-types)</code>  
+**Kind**: static property of [<code>mali-call-types</code>](#module_mali-call-types)  
 <a name="module_mali-call-types.REQUEST_STREAM"></a>
 
-#### mali-call-types.REQUEST_STREAM
+#### mali-call-types.REQUEST\_STREAM
 Request is a stream
 
-**Kind**: static property of <code>[mali-call-types](#module_mali-call-types)</code>  
+**Kind**: static property of [<code>mali-call-types</code>](#module_mali-call-types)  
 <a name="module_mali-call-types.RESPONSE_STREAM"></a>
 
-#### mali-call-types.RESPONSE_STREAM
+#### mali-call-types.RESPONSE\_STREAM
 Response is a stream
 
-**Kind**: static property of <code>[mali-call-types](#module_mali-call-types)</code>  
+**Kind**: static property of [<code>mali-call-types</code>](#module_mali-call-types)  
 <a name="module_mali-call-types.DUPLEX"></a>
 
 #### mali-call-types.DUPLEX
 Duplex call where both request and response are streams
 
-**Kind**: static property of <code>[mali-call-types](#module_mali-call-types)</code>  
+**Kind**: static property of [<code>mali-call-types</code>](#module_mali-call-types)  

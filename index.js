@@ -7,7 +7,7 @@ const DUPLEX = 'duplex'
  * @module mali-call-types
  *
  * @example
- * const CallType = require('mali-call-types')
+ * const CallType = require('@malijs/call-types')
  * console.log(CallType.DUPLEX)
  *
  * @example <caption>Within Mali call handler</caption>
