@@ -1,6 +1,6 @@
 {
   "name": "@malijs/call-types",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Call types for Mali",
   "main": "index.js",
   "repository": {
